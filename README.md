@@ -1,2 +1,2 @@
 # ecommerce-store
-An full-stack eCommerce store web application in nodejs 
+A full-stack online store web built in nodejs 
